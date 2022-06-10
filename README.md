@@ -1,6 +1,6 @@
-<p align="center">
-# Ignews
-</p>
+<h1 align="center">
+Ignews
+</h1>
 
 <p align="center">
   <a href="#page_facing_up-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
