@@ -22,6 +22,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 - [TypeScript](https://www.typescriptlang.org/)
 - [Stripe](https://stripe.com/br)
 - [Prismic](https://prismic.io/)
+- [FaunaDB](https://fauna.com/)
 
 ## :closed_book: Executar
 
